@@ -10,7 +10,6 @@ import totalcross.ui.gfx.Color;
 public class Main extends MainWindow {
 
 	public Main() throws SQLException {
-//		super("Cadastro de Produtos", VERTICAL_GRADIENT);
 		super();
 		gradientTitleStartColor = 0;
 		gradientTitleEndColor = 0xAAAAFF;
